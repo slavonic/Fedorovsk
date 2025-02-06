@@ -6,11 +6,11 @@ Fedorovsk is a font designed to mimic the typeface used by Ivan Fedorov, who pro
 
 ## History
 
-Fedorovsk was designed by Nikita Simmons as Fedorovsk UCS.
-Reencoded for Unicode by Aleksandr Andreev as part of the
+Fedorovsk was designed by Nikita Simmons in 2007 for a legacy codepage.
+It was reencoded for Unicode by Aleksandr Andreev as part of the
 [Slavonic Computing Initiative](https://sci.ponomar.net/fonts.html)
-and edited, released under SIL OFL v. 1.1.
-Edited by Aleksandr Andreev for Google Fonts.
+and edited, released under SIL OFL v. 1.1 and distributed as Fedorovsk Unicode.
+Further edited by Aleksandr Andreev and Nikita Simmons.
 
 ## License
 
@@ -60,18 +60,20 @@ for some reason.
 
 * The font provides a number of ligatures, which are made by inserting the Zero Width Joiner (U+200D) between two characters.
 
+* Stylistic Set 1 (“Right-side accents”) positions the accents over the Yat and the Uk on the right side.
 
+* Stylistic Set 2 (“Left-side accents”) positions the accents over the Yat
+and the Uk on the left side. These stylistic sets are useful when a text uses one of these positionings throughout.
 
-* Additionally, three stylistic sets have been defined in the font. Stylistic Set 1
-(“Right-side accents”) positions the accents over the Yat and the Uk on the right
-side and Stylistic Set 2 (“Left-side accents”) positions the accents over the Yat
-and the Uk on the left side. These stylistic sets are useful when a text uses one of
-these positionings throughout. Stylistic Set 10 (“Equal Baseline Variants”) sets the capital letters on the same baseline as the lowercase letters (useful for working
-with the font in an academic context where the traditionally lowered baseline of
-uppercase letters can cause vertical spacing issues when working with text that
-is both in Latin and Cyrillic scripts). 
+* Stylistic Set 10 (“Equal Baseline Variants”) sets the capital letters on the same baseline as the lowercase letters (useful for working
+with the font in an academic context where the traditionally lowered baseline of uppercase letters can cause vertical spacing issues when working with text that is both in Latin and Cyrillic scripts). 
 
-* Stylistic Alternatives (*salt*) are provided for some characters.
+* Stylistic Alternatives (*salt*) are provided for the following characters:
+- alternative form of U+0404 Capital Ukrainian Ye
+- alternative form of U+0426 Capital Tse
+- lower truncated forms of U+0440 re, U+0444 ef, U+0445 khe, U+0446 tse, U+0449 shche, U+0463 yat, U+0471 psi, U+A641 zelo
+- alternative forms of U+047E Omega and U+047C Ot
+- various accented forms of U+047E yat and U+A64B Uk
 
 See your software's documentation about how to access these glyphs.
 
