@@ -164,18 +164,18 @@ lookup ccmpContextualUkSubstitutionFromLeft {
 	\uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC 
 	\uni2DFD \uniA64B \uniA66F \uniA673 \uniA674 \uniA675 \uniA676 \uniA677 
 	\uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69E \uniA69F 
-	\uniFE26 \uniFE2E \uniFE2F \uni04860301 \uni04860300 \uni0491.alt 
-	\uni2DE3A675 \uni2DEEA675 \uni2DE42DF7 \uniA64B0301.alt1 
-	\uniA64B0301.alt2 \uniA64B0300.alt1 \uniA64B0300.alt2 
-	\uniA64B0486.alt1 \uniA64B.short \uniA64B04860301.alt1 
-	\uniA64B.short2 \uni2DE00487 \uni2DE10487 \uni2DE20487 \uni2DE60487 
-	\uni2DE70487 \uni2DE90487 \uni2DEA0487 \uni2DEB0487 \uni2DEC0487 
-	\uni2DED0487 \uni2DF00487 \uni2DF10487 \uni2DF20487 \uni2DF30487 
-	\uni2DFD0487 \uni04860311 \uni04630486 \uni04630486.alt1 
-	\uni04630300.alt1 \uni04630301.alt2 \uni046304860301 
-	\uni046304860301.alt1 \uni04630300 \uni04630301 \uni04630301.alt1 
-	\uni04630300.alt2 \uni04630311.alt1 \uni04630311.alt2 \uniA64B0486 
-	\uniA64B04860301 \uniA64B0311.alt2 \uniA64B0311.alt1 ];
+	\uni04860301 \uni04860300 \uni04860311 \uniA64B.short2 
+	\uniA64B.short \uni0491.alt \uniA64B0486 \uniA64B0311.alt1 
+	\uniA64B04860301 \uniA64B0301.alt2 \uniA64B0300.alt1 
+	\uniA64B0311.alt2 \uniA64B0486.alt1 \uniA64B0301.alt1 
+	\uniA64B0300.alt2 \uniA64B04860301.alt1 \uni04630486.alt1 
+	\uni04630301.alt2 \uni04630301.alt1 \uni04630300.alt2 
+	\uni04630311.alt2 \uni04630311.alt1 \uni046304860301.alt1 
+	\uni04630486 \uni04630301 \uni04630300 \uni046304860301 \uni2DE00487 
+	\uni2DE10487 \uni2DE20487 \uni2DE60487 \uni2DE70487 \uni2DE90487 
+	\uni2DEA0487 \uni2DEB0487 \uni2DEC0487 \uni2DED0487 \uni2DF00487 
+	\uni2DF10487 \uni2DF20487 \uni2DF30487 \uni2DFD0487 \uniFE26 \uniFE2E 
+	\uniFE2F \uni2DE3A675 \uni2DE42DF7 \uni2DEEA675 ];
     @cc6_back_1 = [\uniA64B0301 \uniA64B0300 \uniA64B0311 ];
     @cc6_back_2 = [\uni0300 \uni0301 \uni0306 \uni0308 \uni030B \uni030F \uni0311 \uni033E \uni034F 
 	\uni0400 \uni0403 \uni0407 \uni040C \uni040D \uni040E \uni0419 \uni0439 
@@ -186,18 +186,18 @@ lookup ccmpContextualUkSubstitutionFromLeft {
 	\uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC 
 	\uni2DFD \uniA64B \uniA66F \uniA673 \uniA674 \uniA675 \uniA676 \uniA677 
 	\uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69E \uniA69F 
-	\uniFE26 \uniFE2E \uniFE2F \uni04860301 \uni04860300 \uni0491.alt 
-	\uni2DE3A675 \uni2DEEA675 \uni2DE42DF7 \uniA64B0301.alt1 
-	\uniA64B0301.alt2 \uniA64B0300.alt1 \uniA64B0300.alt2 
-	\uniA64B0486.alt1 \uniA64B.short \uniA64B04860301.alt1 
-	\uniA64B.short2 \uni2DE00487 \uni2DE10487 \uni2DE20487 \uni2DE60487 
-	\uni2DE70487 \uni2DE90487 \uni2DEA0487 \uni2DEB0487 \uni2DEC0487 
-	\uni2DED0487 \uni2DF00487 \uni2DF10487 \uni2DF20487 \uni2DF30487 
-	\uni2DFD0487 \uni04860311 \uni04630486 \uni04630486.alt1 
-	\uni04630300.alt1 \uni04630301.alt2 \uni046304860301 
-	\uni046304860301.alt1 \uni04630300 \uni04630301 \uni04630301.alt1 
-	\uni04630300.alt2 \uni04630311.alt1 \uni04630311.alt2 \uniA64B0486 
-	\uniA64B04860301 \uniA64B0311.alt2 \uniA64B0311.alt1 ];
+	\uni04860301 \uni04860300 \uni04860311 \uniA64B.short2 
+	\uniA64B.short \uni0491.alt \uniA64B0486 \uniA64B0311.alt1 
+	\uniA64B04860301 \uniA64B0301.alt2 \uniA64B0300.alt1 
+	\uniA64B0311.alt2 \uniA64B0486.alt1 \uniA64B0301.alt1 
+	\uniA64B0300.alt2 \uniA64B04860301.alt1 \uni04630486.alt1 
+	\uni04630301.alt2 \uni04630301.alt1 \uni04630300.alt2 
+	\uni04630311.alt2 \uni04630311.alt1 \uni046304860301.alt1 
+	\uni04630486 \uni04630301 \uni04630300 \uni046304860301 \uni2DE00487 
+	\uni2DE10487 \uni2DE20487 \uni2DE60487 \uni2DE70487 \uni2DE90487 
+	\uni2DEA0487 \uni2DEB0487 \uni2DEC0487 \uni2DED0487 \uni2DF00487 
+	\uni2DF10487 \uni2DF20487 \uni2DF30487 \uni2DFD0487 \uniFE26 \uniFE2E 
+	\uniFE2F \uni2DE3A675 \uni2DE42DF7 \uni2DEEA675 ];
     @cc6_ahead_1 = [\uniA64B0301 \uniA64B0300 \uniA64B0311 ];
     @cc6_ahead_2 = [\uni0300 \uni0301 \uni0306 \uni0308 \uni030B \uni030F \uni0311 \uni033E \uni034F 
 	\uni0400 \uni0403 \uni0407 \uni040C \uni040D \uni040E \uni0419 \uni0439 
@@ -208,25 +208,20 @@ lookup ccmpContextualUkSubstitutionFromLeft {
 	\uni2DF4 \uni2DF5 \uni2DF6 \uni2DF7 \uni2DF9 \uni2DFA \uni2DFB \uni2DFC 
 	\uni2DFD \uniA64B \uniA66F \uniA673 \uniA674 \uniA675 \uniA676 \uniA677 
 	\uniA678 \uniA679 \uniA67A \uniA67B \uniA67C \uniA67D \uniA69E \uniA69F 
-	\uniFE26 \uniFE2E \uniFE2F \uni04860301 \uni04860300 \uni0491.alt 
-	\uni2DE3A675 \uni2DEEA675 \uni2DE42DF7 \uniA64B0301.alt1 
-	\uniA64B0301.alt2 \uniA64B0300.alt1 \uniA64B0300.alt2 
-	\uniA64B0486.alt1 \uniA64B.short \uniA64B04860301.alt1 
-	\uniA64B.short2 \uni2DE00487 \uni2DE10487 \uni2DE20487 \uni2DE60487 
-	\uni2DE70487 \uni2DE90487 \uni2DEA0487 \uni2DEB0487 \uni2DEC0487 
-	\uni2DED0487 \uni2DF00487 \uni2DF10487 \uni2DF20487 \uni2DF30487 
-	\uni2DFD0487 \uni04860311 \uni04630486 \uni04630486.alt1 
-	\uni04630300.alt1 \uni04630301.alt2 \uni046304860301 
-	\uni046304860301.alt1 \uni04630300 \uni04630301 \uni04630301.alt1 
-	\uni04630300.alt2 \uni04630311.alt1 \uni04630311.alt2 \uniA64B0486 
-	\uniA64B04860301 \uniA64B0311.alt2 \uniA64B0311.alt1 ];
+	\uni04860301 \uni04860300 \uni04860311 \uniA64B.short2 
+	\uniA64B.short \uni0491.alt \uniA64B0486 \uniA64B0311.alt1 
+	\uniA64B04860301 \uniA64B0301.alt2 \uniA64B0300.alt1 
+	\uniA64B0311.alt2 \uniA64B0486.alt1 \uniA64B0301.alt1 
+	\uniA64B0300.alt2 \uniA64B04860301.alt1 \uni04630486.alt1 
+	\uni04630301.alt2 \uni04630301.alt1 \uni04630300.alt2 
+	\uni04630311.alt2 \uni04630311.alt1 \uni046304860301.alt1 
+	\uni04630486 \uni04630301 \uni04630300 \uni046304860301 \uni2DE00487 
+	\uni2DE10487 \uni2DE20487 \uni2DE60487 \uni2DE70487 \uni2DE90487 
+	\uni2DEA0487 \uni2DEB0487 \uni2DEC0487 \uni2DED0487 \uni2DF00487 
+	\uni2DF10487 \uni2DF20487 \uni2DF30487 \uni2DFD0487 \uniFE26 \uniFE2E 
+	\uniFE2F \uni2DE3A675 \uni2DE42DF7 \uni2DEEA675 ];
     sub @cc6_back_2 @cc6_match_1'  by [\uniA64B0301.alt1 \uniA64B0300.alt2 \uniA64B0311.alt2 ] ;
 } ccmpContextualUkSubstitutionFromLeft;
-
-lookup UkShortFormSubstitution {
-  lookupflag 0;
-    sub \uniA64B by \uniA64B.short ;
-} UkShortFormSubstitution;
 
 lookup saltStylisticAlternatives {
   lookupflag 0;
@@ -327,25 +322,6 @@ feature ccmp {
       lookup ccmpUkandYatBelowTitlosSubstitution;
       lookup ccmpContextualUkSubstitutionFromLeft;
 } ccmp;
-
-feature      {
-
- script DFLT;
-     language dflt ;
-      lookup UkShortFormSubstitution;
-
- script cyrl;
-     language dflt ;
-      lookup UkShortFormSubstitution;
-
- script geor;
-     language dflt ;
-      lookup UkShortFormSubstitution;
-
- script latn;
-     language dflt ;
-      lookup UkShortFormSubstitution;
-}     ;
 
 feature salt {
 
