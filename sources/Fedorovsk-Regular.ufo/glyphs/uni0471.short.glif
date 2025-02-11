@@ -2,10 +2,10 @@
 <glyph name="uni0471.short" format="2">
   <advance width="630"/>
   <unicode hex="E0ED"/>
+  <anchor x="286" y="527.4" name="Diacritic"/>
   <anchor x="75" y="506.5" name="Left"/>
   <anchor x="510" y="511" name="Right"/>
   <anchor x="511" y="506.4" name="Yerok"/>
-  <anchor x="286" y="747.4" name="Diacritic"/>
   <anchor x="264" y="215.5" name="Numeral"/>
   <anchor x="279" y="499.5" name="HalfMark"/>
   <outline>
@@ -146,7 +146,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>372</integer>
+            <integer>374</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
@@ -175,7 +175,13 @@
             <key>position</key>
             <integer>229</integer>
             <key>width</key>
-            <integer>87</integer>
+            <integer>84</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>239</integer>
+            <key>width</key>
+            <integer>88</integer>
           </dict>
         </array>
       </dict>

@@ -5,7 +5,7 @@ FamilyName: Fedorovsk
 Weight: Regular
 Copyright: Copyright 2025 The Pochaevsk Project Authors (https://github.com/slavonic/pochaevsk).
 UComments: "2013-1-9: Created."
-Version: 3.2
+Version: 3.21
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1357765429
-ModificationTime: 1739089603
+ModificationTime: 1739310006
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -958,7 +958,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 432 18 7
+WinInfo: 414 18 7
 BeginPrivate: 8
 BlueValues 31 [-20 0 386 405 447 466 647 666]
 OtherBlues 21 [-262 -243 -173 -154]
@@ -979,7 +979,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Right" "'mark' Left and Right Marks-1" "Left" "'mark' Left and Right Marks-1" "HalfMark" "'mark' Diacritical Marks-1" "Numeral" "'mark' Numeral Positioning-1" "Stacking" "'mkmk' Diacritical Stacking-1" "Diacritic" "'mark' Diacritical Marks-1" "Yerok" "'mark' Diacritical Marks-1"
-BeginChars: 1114112 541
+BeginChars: 1114112 542
 
 StartChar: uni0020
 Encoding: 32 32 0
@@ -36018,14 +36018,13 @@ StartChar: uni0471.short
 Encoding: 57581 57581 500
 Width: 630
 GlyphClass: 2
-Flags: HW
-HStem: 372 20G<0.5 66 66 110.707> 445 20G<314.25 322.75>
-VStem: 216 68<-245 14> 216 64<-257.328 -164> 229 87<215 447.647>
-DStem2: 337 -235 282 -313 0.819232 0.573462<-52.7642 20.5703>
+Flags: W
+HStem: 374 20G<1.5 14.5 90.5 98.5> 445 20G<309.5 322>
+VStem: 216 68<-245 14> 216 64<-262.993 -164> 229 84<215 445.347> 239 88<219.387 454.941>
+AnchorPoint: "Diacritic" 286 527.4 basechar 0
 AnchorPoint: "Left" 75 506.5 basechar 0
 AnchorPoint: "Right" 510 511 basechar 0
 AnchorPoint: "Yerok" 511 506.4 basechar 0
-AnchorPoint: "Diacritic" 286 747.4 basechar 0
 AnchorPoint: "Numeral" 264 215.5 basechar 0
 AnchorPoint: "HalfMark" 279 499.5 basechar 0
 LayerCount: 2
@@ -37836,6 +37835,60 @@ SplineSet
  -560 -126 l 1
 EndSplineSet
 Colour: ff0000
+EndChar
+
+StartChar: uni04410483
+Encoding: 60695 60695 541
+Width: 315
+Flags: W
+HStem: 0 120<154.805 201.417> 275 115<160.901 232.706> 461 150<39.2915 143.578> 545 147<199.696 327.998> 556 46<145.266 196.703>
+VStem: 30 114<475.635 555.423> 50 100<120.846 262.266> 66 172<43.8277 119.56>
+AnchorPoint: "Yerok" 184 461.7 basechar 0
+AnchorPoint: "Diacritic" 175 516 basechar 0
+AnchorPoint: "Numeral" 152 195.1 basechar 0
+AnchorPoint: "HalfMark" 175 499.5 basechar 0
+AnchorPoint: "Left" 76 449.5 basechar 0
+AnchorPoint: "Right" 253 450 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+152 480 m 1xcc
+ 152 467 118 461 87 461 c 0
+ 65 461 45 464 39 470 c 0
+ 32 478 30 496 30 514 c 0
+ 30 608 52 611 63 611 c 0xe4
+ 126 611 117 602 179 602 c 1xcc
+ 188 601 195 608 198 614 c 256
+ 199 617 198 624 198 634 c 1
+ 196 643 192 655 187 670 c 1
+ 189 681 194 680 214 682 c 1
+ 234 686 263 692 286 692 c 1
+ 290 692 l 2
+ 333 692 338 652 338 607 c 1
+ 338 598 l 2
+ 338 578 335 545 316 545 c 2
+ 313 545 l 2xd4
+ 311 545 192 556 159 556 c 0
+ 148 556 144 549 144 530 c 0
+ 144 514 149 499 152 480 c 1xcc
+170 120 m 0
+ 182 120 202 140 221 140 c 0
+ 235 140 238 122 238 104 c 0
+ 238 78 230 50 219 37 c 0
+ 203 16 162 0 127 0 c 0
+ 124 0 121 -1 118 0 c 0
+ 91 17 75 77 66 118 c 1xc1
+ 56 157 50 196 50 239 c 0
+ 50 259 50 326 141 381 c 256
+ 150 387 166 390 182 390 c 0
+ 204 390 227 384 233 373 c 0
+ 238 362 242 342 242 324 c 0
+ 242 293 241 293 198 275 c 0
+ 182 269 159 260 156 243 c 1
+ 152 230 150 212 150 193 c 0xc2
+ 150 169 153 120 170 120 c 0
+EndSplineSet
+Ligature2: "'ccmp' Precomposed Letterforms-1" uni0441 uni0483
 EndChar
 EndChars
 EndSplineFont

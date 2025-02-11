@@ -94,6 +94,7 @@ lookup ccmpPrecomposedLetterforms {
     sub \uni047E \uni0301  by \uni047E0301;
     sub \uniA64C \uni04860300  by \uniA64C04860300;
     sub \uniA64D \uni04860300  by \uniA64D04860300;
+    sub \uni0441 \uni0483  by \uni04410483;
 } ccmpPrecomposedLetterforms;
 
 lookup ccmpChurchSlavonicLigatures {
@@ -1525,7 +1526,7 @@ lookup markDiacriticalMarks {
   pos base [\uni047B ] <anchor 224 500> mark @HalfMark
 	<anchor 224 529> mark @Diacritic
 	<anchor 399 440> mark @Yerok;
-  pos base [\uni0471 \uni0471.short \uni0471.trunc ] <anchor 279 500> mark @HalfMark
+  pos base [\uni0471 \uni0471.trunc ] <anchor 279 500> mark @HalfMark
 	<anchor 286 747> mark @Diacritic
 	<anchor 511 506> mark @Yerok;
   pos base [\uni047D ] <anchor 519 500> mark @HalfMark
@@ -1780,9 +1781,15 @@ lookup markDiacriticalMarks {
   pos base [\uniA64B.shortl ] <anchor 410 776> mark @Yerok
 	<anchor 84 576> mark @Diacritic
 	<anchor 182 500> mark @HalfMark;
+  pos base [\uni0471.short ] <anchor 286 527> mark @Diacritic
+	<anchor 511 506> mark @Yerok
+	<anchor 279 500> mark @HalfMark;
   pos base [\uni29DF ] <anchor 558 464> mark @HalfMark
 	<anchor 636 464> mark @Yerok
 	<anchor 382 464> mark @Diacritic;
+  pos base [\uni04410483 ] <anchor 184 462> mark @Yerok
+	<anchor 175 516> mark @Diacritic
+	<anchor 175 500> mark @HalfMark;
 } markDiacriticalMarks;
 
 lookup markNumeralPositioning {
@@ -1821,6 +1828,7 @@ lookup markNumeralPositioning {
   pos base [\uni0471 \uni0471.short \uni0471.trunc ] <anchor 264 216> mark @Numeral;
   pos base [\uni046F ] <anchor 202 194> mark @Numeral;
   pos base [\uni25CC ] <anchor 264 212> mark @Numeral;
+  pos base [\uni04410483 ] <anchor 152 195> mark @Numeral;
 } markNumeralPositioning;
 
 lookup markLeftandRightMarks {
@@ -2009,6 +2017,8 @@ lookup markLeftandRightMarks {
 	<anchor 531 511> mark @Right;
   pos base [\uni0443.trunc ] <anchor 36 466> mark @Left
 	<anchor 351 464> mark @Right;
+  pos base [\uni04410483 ] <anchor 76 450> mark @Left
+	<anchor 253 450> mark @Right;
 } markLeftandRightMarks;
 
 lookup mkmkDiacriticalStacking {
@@ -2289,7 +2299,7 @@ feature mkmk {
 	\uni047F0301 \uni047E0301 \uniA64B0300.alt \uniA64B0486.alt \uni04630311.alt 
 	\uni047C.alt \uniA64C04860300 \uniA64D04860300 \uni047F.alt \uni00C0 \uni00C7 
 	\uni00C9 \uni00CA \uni00CB \uni00CF \uni00D1 \uni00E0 \uni00E7 \uni00E8 \uni00E9 
-	\uni00EA \uni00EB \uni00EF \uni00F1 \uni00F4 \uni00F6 ];
+	\uni00EA \uni00EB \uni00EF \uni00F1 \uni00F4 \uni00F6 \uni04410483 ];
 @GDEF_Mark = [\uni033E \uni20DD \uni0488 \uni0489 \uniA670 \uniA671 \uniA672 
 	\uniA67D \uni0301 \uni0311 \uni030F \uni0300 \uni0306 \uni2DF5 \uni2DEE \uni0483 
 	\uni2DE1 \uni2DF1 \uni2DE4 \uni2DF4 \uni2DFD \uni2DF2 \uni2DF3 \uni2DEB \uni2DED 

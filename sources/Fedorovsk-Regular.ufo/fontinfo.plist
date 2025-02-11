@@ -13,7 +13,7 @@
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>21</integer>
     <key>copyright</key>
     <string>Copyright 2025 The Pochaevsk Project Authors (https://github.com/slavonic/pochaevsk).</string>
     <key>unitsPerEm</key>
@@ -35,7 +35,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameVersion</key>
-    <string>Version 3.002</string>
+    <string>Version 3.021</string>
     <key>openTypeNameSampleText</key>
     <string>Хрⷭ҇то́съ вᲂскр҃се и҆з̾ ме́ртвыхъ сме́ртїю на сме́рть настꙋпѝ , и҆ гро́бнымъ живо́тъ дарᲂва̀ .</string>
     <key>openTypeOS2WidthClass</key>
